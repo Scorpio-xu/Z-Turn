@@ -28,3 +28,6 @@ Z-Turn, which means "to explore and experiment" in Chinese, represents the joy o
 
 - Dev Tools <https://dev-tools.z-turn.tech/>
 - 今日热榜 <https://hot.z-turn.tech/>
+
+## 感谢
+感谢[Vercel](https://vercel.com)提供模板及部署支持
