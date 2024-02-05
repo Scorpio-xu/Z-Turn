@@ -13,10 +13,11 @@ Z-Turn, which means "to explore and experiment" in Chinese, represents the joy o
 ## Z-Turn AI Center
 
 - AI Code Translator <https://aicode.z-turn.tech>
-- AI Interview <https://ai-interview.z-turn.tech/>
+- AI Interview <https://liftoff.z-turn.tech/>
 - Chat With Hacker News <https://chat2news.z-turn.tech/>
-- ChatGPT <https://chatgpt.z-turn.tech/>
+- Chat With LLMs <https://nextchat.z-turn.tech/>
 - AI Writing <https://novel.z-turn.tech/>
+- AI Spring Festival couplets <https://aisfc.z-turn.tech/>
 - Twitter Bio Writing <https://x-bio.z-turn.tech/>
 - AI Painting <https://paintbytext.z-turn.tech/>
 
